@@ -1,13 +1,13 @@
 # JAND Developement
 Zwei Typen mit viiiiiel Langeweile XD
 
-![JAND - JavaScript für alle!](JAND_Logo.png)
+[JAND - JavaScript für alle!](JAND_Logo.png)
 
 ## Übersicht
 
 - [Übersicht](#übersicht)
 - [Vorstellung](#wer-sind-wir)
-- [Was ist GAL.002?](#gal.002)
+- [Was ist GAL.002?](#gal002)
 
 
 ## Wer sind wir
@@ -16,13 +16,14 @@ Hi!
 Dürfen wir uns kurz vorstellen?  
 Wir sind Robin und Chris, wir sind das Team von JAND.  
 Als ein Hobby haben wir immer mal wieder an Discord Bots gebastelt und diese bisher stets als kleine private Projekte gesehen.  
-Das machen wir nun open-source (naja, zumindest größtenteils XD). [GAL.002](https://github.com/JANDdevelopement/GAL.002) ist ein gutes Beispiel, dieser Bot ist vor kurzem veröffentlicht worden.  
+Das machen wir nun open-source (naja, zumindest größtenteils XD).  
+[GAL.002](https://github.com/JANDdevelopement/GAL.002) ist ein gutes Beispiel, dieser Bot ist vor kurzem veröffentlicht worden.  
 Doch auch Projekte die nicht open source sind verwalten wir hier, "TempLounge" zum Beispiel.  
 Gemeinsam versuchen wir sowohl unsere Kentnisse zu vertiefen, als auch anderen hin und wieder Projekte präsentieren zu dürfen.  
 
 ## GAL.002
 ChatGPT in Discord.
-![Das Logo von GAL.002](GAL.002_Logo.png)
+[Das Logo von GAL.002](GAL.002_Logo.png)
 
 GAL.002 ist unser erstes Projekt, das wir hier als open source Repository zur Verfügung stellen.
 Es ist ein Discord Bot der mithilfe eines OpenAI Tokens fähig ist, ChatGPT in Discord zu nutzen.
