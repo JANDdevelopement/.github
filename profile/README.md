@@ -12,13 +12,13 @@ Zwei Typen mit viiiiiel Langeweile XD
 
 ## Wer sind wir
 
-Hi!
-Dürfen wir uns kurz vorstellen?
-Wir sind Robin und Chris, wir sind das Team von JAND.
-Als ein Hobby haben wir immer mal wieder an Discord Bots gebastelt und diese bisher stets als kleine private Projekte gesehen.
-Das machen wir nun open-source (naja, zumindest größtenteils XD). [GAL.002](https://github.com/JANDdevelopement/GAL.002) ist ein gutes Beispiel, dieser Bot ist vor kurzem veröffentlicht worden.
-Doch auch Projekte die nicht open source sind verwalten wir hier, "TempLounge" zum Beispiel.
-Gemeinsam versuchen wir sowohl unsere Kentnisse zu vertiefen, als auch anderen hin und wieder Projekte präsentieren zu dürfen.
+Hi!  
+Dürfen wir uns kurz vorstellen?  
+Wir sind Robin und Chris, wir sind das Team von JAND.  
+Als ein Hobby haben wir immer mal wieder an Discord Bots gebastelt und diese bisher stets als kleine private Projekte gesehen.  
+Das machen wir nun open-source (naja, zumindest größtenteils XD). [GAL.002](https://github.com/JANDdevelopement/GAL.002) ist ein gutes Beispiel, dieser Bot ist vor kurzem veröffentlicht worden.  
+Doch auch Projekte die nicht open source sind verwalten wir hier, "TempLounge" zum Beispiel.  
+Gemeinsam versuchen wir sowohl unsere Kentnisse zu vertiefen, als auch anderen hin und wieder Projekte präsentieren zu dürfen.  
 
 ## GAL.002
 ChatGPT in Discord.
