@@ -8,6 +8,7 @@ Zwei Typen mit viiiiiel Langeweile XD
 - [Übersicht](#übersicht)
 - [Vorstellung](#wer-sind-wir)
 - [Was ist GAL.002?](#gal002)
+- [Was ist TempLounge?](#templounge)
 
 
 ## Wer sind wir
@@ -17,8 +18,8 @@ Dürfen wir uns kurz vorstellen?
 Wir sind Robin und Chris, wir sind das Team von JAND.  
 Als ein Hobby haben wir immer mal wieder an Discord Bots gebastelt und diese bisher stets als kleine private Projekte gesehen.  
 Das machen wir nun open-source (naja, zumindest größtenteils XD).  
-[GAL.002](https://github.com/JANDdevelopement/GAL.002) ist ein gutes Beispiel, dieser Bot ist vor kurzem veröffentlicht worden.  
-Doch auch Projekte die nicht open source sind verwalten wir hier, "TempLounge" zum Beispiel.  
+[GAL.002](#gal002) ist ein gutes Beispiel, dieser Bot ist vor kurzem veröffentlicht worden.  
+Doch auch Projekte die nicht open source sind verwalten wir hier, [TempLounge](#templounge) zum Beispiel.  
 Gemeinsam versuchen wir sowohl unsere Kentnisse zu vertiefen, als auch anderen hin und wieder Projekte präsentieren zu dürfen.  
 
 ## GAL.002
@@ -34,3 +35,19 @@ Man erkennt bestimmt schon die Ähnlichkeit ^^.
 
 Lust den Bot auszuprobieren? Installiere ihn doch einfach mal selbst und probiere das System aus!
 Wir würden uns über eine Rückmeldung freuen ;)
+
+## TempLounge
+Temporary but awesome!
+![Das Logo von TempLounge](TempLounge_Logo.png)
+
+Templounge ist eines unserer Projekte, die wohl nicht open-source werden.  
+Dieser Bot ist dazu da temporäre Sprachkanäle für Nutzer zu verwalten.  
+Eigentlich gibt es das zwar schon, aber da wir nicht ganz zufrieden mit den vorhandenen Angeboten waren fingen wir kurzerhand mit einem eigenen an.  
+
+Der Nutzer soll es einfach haben, einen Slash Command auszuführen und *zack* schon ist sein eigener Sprachkanal da!  
+Nun nehmen wir an der Nutzer möchte den Kanal für alle Freunde zugänglich machen, der Nutzer bekommt ganz einfach die Permission dies zu tun.  
+Der Bot soll dann beim entfernen des Kanals die aktuellen Permissions speichern und beim nächsten Erstellen wieder abrufen.  
+
+Fun-Fact:  
+Das Logo soll an eine gemütliche Lounge in den 1900ern erinnern, als die Zeit noch etwas langsamer tickte.  
+Es soll ein leicht nostalgisches Gefühl hervorrufen und zugleich das Interesse wecken was dieser Bot wohl kann :wink:.  
