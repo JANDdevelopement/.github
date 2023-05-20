@@ -9,6 +9,7 @@ Zwei Typen mit viiiiiel Langeweile XD
 - [Vorstellung](#wer-sind-wir)
 - [Was ist GAL.002?](#gal002)
 - [Was ist TempLounge?](#templounge)
+- [Discord Server](#discord)
 
 
 ## Wer sind wir
@@ -43,6 +44,7 @@ Temporary but awesome!
 Templounge ist eines unserer Projekte, die wohl nicht open-source werden.  
 Dieser Bot ist dazu da temporäre Sprachkanäle für Nutzer zu verwalten.  
 Eigentlich gibt es das zwar schon, aber da wir nicht ganz zufrieden mit den vorhandenen Angeboten waren fingen wir kurzerhand mit einem eigenen an.  
+Anbieten werden wir das ganze auf unserem eigenen Discord Server + man wird den Bot auch dem eigenen Server hinzufügen können ^^!
 
 Der Nutzer soll es einfach haben, einen Slash Command auszuführen und *zack* schon ist sein eigener Sprachkanal da!  
 Nun nehmen wir an der Nutzer möchte den Kanal für alle Freunde zugänglich machen, der Nutzer bekommt ganz einfach die Permission dies zu tun.  
@@ -51,3 +53,8 @@ Der Bot soll dann beim entfernen des Kanals die aktuellen Permissions speichern 
 Fun-Fact:  
 Das Logo soll an eine gemütliche Lounge in den 1900ern erinnern, als die Zeit noch etwas langsamer tickte.  
 Es soll ein leicht nostalgisches Gefühl hervorrufen und zugleich das Interesse wecken was dieser Bot wohl kann :wink:.  
+
+## Discord
+Nun gut, bei Discord mal kein Logo XD  
+Gemeinsam sind wir meist auf diesem [Discord](https://discord.gg/EmScKUnaPe) zu finden.  
+Dieser ist zwar eigentlich ein Community Server von Chris, man kann sich aber auch wegen JAND dort melden ;)  
