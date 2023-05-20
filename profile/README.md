@@ -1,7 +1,7 @@
 # JAND Developement
 Zwei Typen mit viiiiiel Langeweile XD
 
-[JAND - JavaScript für alle!](JAND_Logo.png)
+![Das Logo von JAND](JAND_Logo.png)
 
 ## Übersicht
 
@@ -23,7 +23,7 @@ Gemeinsam versuchen wir sowohl unsere Kentnisse zu vertiefen, als auch anderen h
 
 ## GAL.002
 ChatGPT in Discord.
-[Das Logo von GAL.002](GAL.002_Logo.png)
+![Das Logo von GAL.002](GAL.002_Logo.png)
 
 GAL.002 ist unser erstes Projekt, das wir hier als open source Repository zur Verfügung stellen.
 Es ist ein Discord Bot der mithilfe eines OpenAI Tokens fähig ist, ChatGPT in Discord zu nutzen.
