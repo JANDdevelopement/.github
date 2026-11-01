@@ -1,7 +1,7 @@
 # JAND Developement
 Zwei Typen mit viiiiiel Langeweile XD
+Dieses Logo wurde ohne die Hilfe von künstlicher Intelligenz erstellt.  
 
-Dieses Logo wurde ohne die Hilfe von künstlicher Intelligenz erstellt.
 ![Das Logo von JAND](../JAND_Logo.png)
 
 ## Übersicht
