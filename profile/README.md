@@ -1,5 +1,5 @@
 # JAND Developement
-Zwei Typen mit viiiiiel Langeweile XD
+Zwei Typen mit viiiiiel Langeweile XD  
 Dieses Logo wurde ohne die Hilfe von künstlicher Intelligenz erstellt.  
 
 ![Das Logo von JAND](../JAND_Logo.png)
@@ -8,7 +8,7 @@ Dieses Logo wurde ohne die Hilfe von künstlicher Intelligenz erstellt.
 
 - [Übersicht](#übersicht)
 - [Vorstellung](#wer-sind-wir)
-- [Was ist GAL.002?](#gal002)
+- [Was ist GAL.002?](#gal002-deprecated)
 - [Was ist TempLounge?](#templounge)
 - [Discord Server](#discord)
 
@@ -25,21 +25,21 @@ Doch auch Projekte die nicht open source sind verwalten wir hier, [TempLounge](#
 Gemeinsam versuchen wir sowohl unsere Kentnisse zu vertiefen, als auch anderen hin und wieder Projekte präsentieren zu dürfen.  
 
 ## GAL.002 [DEPRECATED]
-ChatGPT in Discord.
-Dieses Logo wurde mithilfe von künstlicher Intelligenz erstellt.
+ChatGPT in Discord.  
+Dieses Logo wurde mithilfe von künstlicher Intelligenz erstellt.  
 ![Das Logo von GAL.002](../GAL.002_Logo.png)
 
 GAL.002 ist unser erstes Projekt, das wir hier als open source Repository zur Verfügung stellen.
 Es ist ein Discord Bot der mithilfe eines OpenAI Tokens fähig ist, ChatGPT in Discord zu nutzen.
-Schreibt man den Bot also nun per DM an, antwortet er als ChatGPT mit dem Auftrag, die Rolle eines hilfreichen Assistenten anzunehmen.
-
-Den Namen hat dieses Projekt von Chris, Chris heißt auf diversen Plattformen "MR Galaxy" oder "Gaming_Galaxy200".
-Man erkennt bestimmt schon die Ähnlichkeit ^^. 
-
+Schreibt man den Bot also nun per DM an, antwortet er als ChatGPT mit dem Auftrag, die Rolle eines hilfreichen Assistenten anzunehmen.  
+  
+Den Namen hat dieses Projekt von Chris, Chris heißt auf diversen Plattformen "MR Galaxy" oder "Gaming_Galaxy200".  
+Man erkennt bestimmt schon die Ähnlichkeit ^^.  
+  
 Lust den Bot auszuprobieren? Installiere ihn doch einfach mal selbst und probiere das System aus!  
 
 ## TempLounge
-Temporary but awesome!
+Temporary but awesome!  
 ![Das Logo von TempLounge](../TempLounge_Logo.png)
 
 Templounge ist eines unserer Projekte, die wohl nicht open-source werden.  
